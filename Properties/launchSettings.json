@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Yieryi": {
+      "commandName": "Project",
+      "commandLineArgs": "/dev/cu.usbserial-1130"
+    }
+  }
+}
